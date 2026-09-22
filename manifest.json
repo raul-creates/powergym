@@ -1,11 +1,11 @@
 {
-  "name": "HIERRO Training Log",
-  "short_name": "HIERRO",
+  "name": "Power Gimnasio",
+  "short_name": "Power Gym",
   "description": "Registro de entrenamiento personal",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0F1117",
-  "theme_color": "#FFD200",
+  "theme_color": "#D93127",
   "orientation": "portrait",
   "lang": "es",
   "icons": [
